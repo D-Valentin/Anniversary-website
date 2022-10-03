@@ -20,7 +20,7 @@ body {
 
 .section0 {
   border: 2px solid black;
-  margin: 20px 80px;
+  margin: 20px 40px;
   background: #ffa4a4;
   padding: 30px;
   min-height: 700px;
@@ -32,7 +32,7 @@ body {
 
 .section1 {
   border: 2px solid black;
-  margin: 20px 80px;
+  margin: 20px 40px;
   background: #ffa4a4;
   padding: 30px;
   min-height: 700px;
@@ -55,7 +55,7 @@ body {
 
 .section2 {
   border: 2px solid black;
-  margin: 20px 80px;
+  margin: 20px 40px;
   background: #ffa4a4;
   padding: 30px;
   min-height: 700px;
@@ -78,7 +78,7 @@ body {
 
 .section3 {
   border: 2px solid black;
-  margin: 20px 80px;
+  margin: 20px 40px;
   background: #ffa4a4;
   padding: 30px;
   min-height: 700px;
